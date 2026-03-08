@@ -1,0 +1,10 @@
+A young woman working on a laptop in a cozy cafe near a large window. She is sitting at a small round wooden table with a cup of coffee beside the laptop. The woman is wearing casual clothing and glasses while typing code on the laptop screen. Natural daylight is coming through the window, creating soft warm lighting. The background shows a calm modern cafe interior with blurred furniture and a relaxed atmosphere.
+
+composition: side profile view, medium shot
+environment: modern cafe interior, wooden table, coffee cup
+lighting: soft natural window light, warm tones
+style: realistic photography
+camera: 50mm lens, shallow depth of field
+quality: photorealistic, high detail, cinematic lighting
+
+SEED: 70216
