@@ -67,6 +67,9 @@ style: realistic photography
 camera: 50mm lens, shallow depth of field
 quality: photorealistic, high detail, cinematic lighting
 
+- **Output Image:**  
+![Step 3](outputs/final_image.png)  
+
 ---
 
 ### Notes
