@@ -57,20 +57,20 @@ The goal of this exercise was to replicate the reference image of a young woman 
 
 #### Step 4 - Final Output
 - **Prompt:** Full combined prompt:  
-```text
-A young woman working on a laptop in a cozy cafe near a large window. She is sitting at a small round wooden table with a cup of coffee beside the laptop. The woman is wearing casual clothing and glasses while typing code on the laptop screen. Natural daylight is coming through the window, creating soft warm lighting. The background shows a calm modern cafe interior with blurred furniture and a relaxed atmosphere.
+    ```text
+    A young woman working on a laptop in a cozy cafe near a large window. She is sitting at a small round wooden table with a cup of coffee beside the laptop. The woman is wearing casual clothing and glasses while typing code on the laptop screen. Natural daylight is coming through the window, creating soft warm lighting. The background shows a calm modern cafe interior with blurred furniture and a relaxed atmosphere.
 
-composition: side profile view, medium shot
-environment: modern cafe interior, wooden table, coffee cup
-lighting: soft natural window light, warm tones
-style: realistic photography
-camera: 50mm lens, shallow depth of field
-quality: photorealistic, high detail, cinematic lighting
-
+    composition: side profile view, medium shot
+    environment: modern cafe interior, wooden table, coffee cup
+    lighting: soft natural window light, warm tones
+    style: realistic photography
+    camera: 50mm lens, shallow depth of field
+    quality: photorealistic, high detail, cinematic lighting
+    ---
+- **Observation:** Enhanced realism, cozy warm mood  
 - **Output Image:**  
-![Step 3](outputs/final_image.png)  
+![Step 3](outputs/step3_style_lighting.png)  
 
----
 
 ### Notes
 - Changing the SEED generates alternative variations while keeping the prompt fixed.  
