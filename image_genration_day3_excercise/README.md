@@ -69,7 +69,7 @@ The goal of this exercise was to replicate the reference image of a young woman 
     ---
 - **Observation:** Enhanced realism, cozy warm mood  
 - **Output Image:**  
-![Step 3](outputs/step3_style_lighting.png)  
+![Step 3](outputs/final_image.png)  
 
 
 ### Notes
