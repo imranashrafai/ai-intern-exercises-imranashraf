@@ -1,7 +1,3 @@
-# ================================
-# File: README.md
-# ================================
-
 # Day 2 — Prompt Engineering & Text Generation
 
 ## Overview
