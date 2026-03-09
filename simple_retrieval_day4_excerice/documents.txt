@@ -1,0 +1,11 @@
+Transformers use self-attention mechanisms to process sequences efficiently.
+
+Diffusion models generate images by gradually removing noise from random data.
+
+Embeddings convert text into numerical vectors that represent semantic meaning.
+
+Cooking pasta requires boiling water, adding salt, and cooking noodles until tender.
+
+Mars is the fourth planet from the Sun and is often called the Red Planet.
+
+Python is a popular programming language used for machine learning and data science.

@@ -1,0 +1,18 @@
+Query: recipie for cooking pasta
+Top 3 Results:
+1. Cooking pasta requires boiling water, adding salt, and cooking noodles until tender. (0.68)
+2. Python is a popular programming language used for machine learning and data science. (0.10)
+3. Transformers use self-attention mechanisms to process sequences efficiently. (0.09)
+---------------------------------
+Query: what is the name of fourth planet
+Top 3 Results:
+1. Mars is the fourth planet from the Sun and is often called the Red Planet. (0.73)
+2. Embeddings convert text into numerical vectors that represent semantic meaning. (0.07)
+3. Python is a popular programming language used for machine learning and data science. (0.04)
+---------------------------------
+Query: which technique removes noise from the data?
+Top 3 Results:
+1. Diffusion models generate images by gradually removing noise from random data. (0.51)
+2. Transformers use self-attention mechanisms to process sequences efficiently. (0.16)
+3. Python is a popular programming language used for machine learning and data science. (0.07)
+---------------------------------
